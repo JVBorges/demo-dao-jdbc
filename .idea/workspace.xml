@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba1f3ea5-7358-44e9-ae3b-af1eec9ceda9" name="Default Changelist" comment="Teste">
-      <change afterPath="$PROJECT_DIR$/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/db/DB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/db/DbException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/db/DbIntegrityException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/entities/Department.java" afterDir="false" />
+    <list default="true" id="ba1f3ea5-7358-44e9-ae3b-af1eec9ceda9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/model/entities/Seller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/entities/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/entities/Department.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571681274921</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Department entity class">
+      <created>1571682280671</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571682280671</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Teste" />
-    <option name="LAST_COMMIT_MESSAGE" value="Teste" />
+    <MESSAGE value="Department entity class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Department entity class" />
   </component>
 </project>
