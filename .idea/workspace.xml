@@ -4,7 +4,6 @@
     <list default="true" id="ba1f3ea5-7358-44e9-ae3b-af1eec9ceda9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/dao/SellerDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/SellerDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -126,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571939225179</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="findByDepartment implementation">
+      <created>1571940560048</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571940560048</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,14 +155,15 @@
     <MESSAGE value="DepartmentDao and SellerDao interfaces" />
     <MESSAGE value="SellerDaoJDBC and DaoFactory" />
     <MESSAGE value="Reusing instantiation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reusing instantiation" />
+    <MESSAGE value="findByDepartment implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="findByDepartment implementation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java</url>
-          <line>109</line>
+          <line>142</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
