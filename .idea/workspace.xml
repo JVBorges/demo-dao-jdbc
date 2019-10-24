@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba1f3ea5-7358-44e9-ae3b-af1eec9ceda9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
     </list>
@@ -146,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571942206547</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update implementation">
+      <created>1571943702734</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1571943702734</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,7 +178,8 @@
     <MESSAGE value="findByDepartment implementation" />
     <MESSAGE value="findAll implementation" />
     <MESSAGE value="insert implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="insert implementation" />
+    <MESSAGE value="update implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="update implementation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
